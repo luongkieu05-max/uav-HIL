@@ -1,0 +1,7 @@
+/main.elf
+/main.bin
+/main.map
+/src/*.o
+/startup/*.o
+**/slprj/
+*.slxc
